@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Repos on this github are mostly university assingments, feel free to take a look. 
+Some personal projects will be published on here, but most are on my second git account. :octocat:
+
 <!--
 **landerdr/landerdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
